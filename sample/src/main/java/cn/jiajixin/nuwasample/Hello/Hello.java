@@ -8,6 +8,6 @@ public class Hello {
         return "hello world";
     }
     public String test(){
-        return "1";
+        return "2";
     }
 }
