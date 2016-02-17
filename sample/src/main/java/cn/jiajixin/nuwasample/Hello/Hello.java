@@ -7,7 +7,4 @@ public class Hello {
     public String say() {
         return "hello world";
     }
-    public String test(){
-        return "2";
-    }
 }
