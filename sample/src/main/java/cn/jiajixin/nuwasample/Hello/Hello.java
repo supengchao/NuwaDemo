@@ -8,5 +8,6 @@ public class Hello {
         return "hello world";
     }
     public void test(){
+        return;
     }
 }
